@@ -1,2 +1,2 @@
 # CRAN-PySpark-RDD-Analytics
-This project utilizes PySpark RDD in Hadoop for CRAN package analysis, enabling scalable data processing and insights into downloads.
+This  project demonstrates the utilization of PySpark RDD (Resilient Distributed Dataset) within a Hadoop environment for analyzing CRAN (Comprehensive R Archive Network) package downloads. By harnessing PySpark's capabilities within Hadoop, the project enables scalable and efficient distributed data processing. The primary goal is to gain insights into the top downloads and geographical distribution of CRAN packages, leveraging the parallel processing power of Hadoop
